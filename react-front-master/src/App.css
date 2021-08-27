@@ -1,0 +1,24 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.font {
+  font-family: "Lobster", cursive;
+  color: black;
+  text-shadow: 0 0 3px #ff0000, 0 0 5px #00ccff;
+}
+.c {
+  background-color: rgba(170, 215, 236, 0.281);
+}
+.st {
+  font-weight: 500;
+  color: black;
+}
+.b {
+  color: black;
+}
+
+.btn {
+  border-radius: 5% !important;
+}
